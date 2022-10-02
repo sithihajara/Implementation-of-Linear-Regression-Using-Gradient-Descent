@@ -103,24 +103,19 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
-![1](https://user-images.githubusercontent.com/94219582/193458585-98ae2e50-63f3-4f19-92d5-0c85429a3e3b.png)
-![2](https://user-images.githubusercontent.com/94219582/193458589-ef53c10b-e8a8-452c-92af-f57![3](https://user-images.githubusercontent.com/94219582/193458594-4ea2c1a8-65d3-4dd2-8e96-b8ba8a05cc4e.png)
-843407218.png)
-![4](https://user-images.githubusercontent.com/94219582/193458605-23cedf78-9bcc-4d1e-9ab2-2d3fb5ba8f7b.png)
-![5](https://user-images.githubusercontent.com/94219582/193458609-5e255293-365f-49c3-b1e3-47cbae6c75e3.png)
-![6](https://user-images.githubusercontent.com/94219582/193458617-45d39fcc-864b-479c-83fc-b2b57fa3ad6b.png)
-![7](https://user-images.githubusercontent.com/94219582/193458625-ed4472b5-b6d6-415d-8e51-27d2dce2fe55.png)
-![8](https://user-images.githubusercontent.com/94219582/193458631-8ac62eff-7e3e-47be-a0d1-8502fb797f38.png)
-![9](https://user-images.githubusercontent.com/94219582/193458636-4bba6e4d-324e-4c99-b396-7c67d98f7a7f.png)
-![10](https://user-images.githubusercontent.com/94219582/193458646-fe8837c5-89e2-4f46-bb02-ba038a866557.png)
-![11](https://user-images.githubusercontent.com/94219582/193458648-762f928b-3181-4fc2-bb7e-6a0f65cb8ef7.png)
-![12](https://user-images.githubusercontent.com/94219582/193458655-f2957519-12a3-457f-8fa1-ade8![14](https://user-images.githubusercontent.com/94219582/193458660-4207e1d9-ab6d-4712-88f4-08aabd21c68c.png)
-d312f32f.png)
-![15](https://user-images.githubusercontent.com/94219582/193458670-f03ba487-0bd7-44a5-bffb-3c0ca995b51a.png)
-![16](https://user-images.githubusercontent.com/94219582/193458674-b8c130a3-599c-40d0-ac79-a350819dda0d.png)
-![17](https://user-images.githubusercontent.com/94219582/193458677-c612c2a9-298d-4f6b-8b03-47fe3fb003db.png)
-![18](https://user-images.githubusercontent.com/94219582/193458682-f8facda2-c529-4054-9c29-a0110a46de27.png)
-![19](https://user-images.githubusercontent.com/94219582/193458690-fd9c3d81-9d4d-4d0a-b0e8-51fecba83db8.png)
+![4](https://user-images.githubusercontent.com/94219582/193459033-f370f153-2df8-4bf0-b850-ccfd64ab047b.png)
+![6](https://user-images.githubusercontent.com/94219582/193459052-b0e1c47e-972b-4be8-b606-3ea0e83ebea4.png)
+![7](https://user-images.githubusercontent.com/94219582/193459056-a2783369-bf02-4e18-8d0b-18d5eed45d28.png)
+![9](https://user-images.githubusercontent.com/94219582/193459110-f04ebeeb-10d8-4b1b-9072-1c276a991b7c.png)
+![10](https://user-images.githubusercontent.com/94219582/193459122-97316650-1b6d-4bc0-93c2-09c901710581.png)
+![12](https://user-images.githubusercontent.com/94219582/193459128-26eb3619-7fe6-4472-a9fe-137cea1f6dc8.png)
+![14](https://user-images.githubusercontent.com/94219582/193459143-af1ef265-feaa-40dd-bf38-2123930b4323.png)
+![15](https://user-images.githubusercontent.com/94219582/193459160-93da5608-9cd6-4591-8df7-7a8e7f8fbee0.png)
+![16](https://user-images.githubusercontent.com/94219582/193459168-3f3d36c6-aaee-468e-9f70-cb0f33974aa2.png)
+![17](https://user-images.githubusercontent.com/94219582/193459177-9c49c746-9be6-4f9a-82d9-550bbe75db1b.png)
+![18](https://user-images.githubusercontent.com/94219582/193459185-74e9314b-a159-47f3-8cf0-bc839f2a0b43.png)
+![19](https://user-images.githubusercontent.com/94219582/193459191-a6d47bde-ecd8-4a08-9505-aa779c865ec6.png)
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
